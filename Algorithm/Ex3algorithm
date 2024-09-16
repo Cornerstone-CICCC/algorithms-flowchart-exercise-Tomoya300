@@ -1,0 +1,6 @@
+1. Start
+2. Input three number:a, b, and c
+3. If a is greater than b and c, print a
+4. If b is greater than a and c, print b
+5. If c is greater than a and b, print c
+6. End
