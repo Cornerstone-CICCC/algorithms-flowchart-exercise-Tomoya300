@@ -1,0 +1,5 @@
+1. Start
+2. Input three number:a,b, and c
+3. if a+b>c, b+c>a, and c+a>b are true, print Triangle is possible
+4. If any of a+b>c, b+c>a, and c+a>b is false, print Triangle is impossible
+5. End
