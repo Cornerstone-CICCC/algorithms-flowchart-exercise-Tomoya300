@@ -7,6 +7,10 @@ if (num1 + num2 > num3) {
             console.log("Triangle is possible");
         } else {
             console.log("Triangle is impossible")
-        }
+        } 
+    } else {
+        console.log("Triangle is impossible")
     }
+} else {
+    console.log("Triangle is impossible")
 }
