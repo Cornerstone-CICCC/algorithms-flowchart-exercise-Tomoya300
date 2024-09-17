@@ -1,0 +1,7 @@
+1. Start
+2. Input name and marks obtained
+3. If marks obtained is greater than or equal to 80%, print Grade A
+4. If marks obtained is greater than or equal to 60% but less than 80%, print Grade B
+5. If marks obtained is greater than or equal to 40% but less than 60%, print Grade C
+6. If marks obtained is less than 40%, print No Grade
+7. End
